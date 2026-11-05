@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "project": "ResearchMate AI — Research Paper Agent",
+    "version": "1.0",
+    "exportedAt": "2026-11-03T05:42:00.000Z",
+    "academicFormat": "APA 7th Edition"
+  },
+  "researchCore": {
+    "topic": "Applications of Artificial Intelligence in Education: Enhancing Personalized Learning while Mitigating Algorithmic Bias",
+    "discipline": "Educational Technology & Computer Science",
+    "academicLevel": "Undergraduate Senior Capstone",
+    "statusNotice": "Suggested research directions and theoretical formulations for academic inquiry. These are exploratory hypotheses and questions, not verified empirical findings.",
+    "primaryQuestion": "How can artificial intelligence tools support personalized learning in higher education while mitigating risks of algorithmic bias and student privacy infringement?",
+    "subQuestions": [
+      "What machine learning mechanisms are currently employed by adaptive learning platforms to tailor pedagogical content?",
+      "How do algorithmic feedback loops impact equity and academic self-efficacy among diverse student demographics?",
+      "What governance frameworks and privacy protocols should educational institutions implement when adopting generative AI systems?"
+    ],
+    "objectives": [
+      "Examine the measurable learning benefits of AI-driven adaptive instructional systems in STEM coursework.",
+      "Analyze the psychological, institutional, and technical challenges associated with AI implementation in classrooms.",
+      "Evaluate algorithmic bias vulnerabilities in student performance assessment models.",
+      "Recommend evidence-based institutional guidelines for ethical AI integration in student learning environments."
+    ],
+    "keywords": [
+      "AI in education",
+      "personalized learning",
+      "educational technology",
+      "algorithmic bias",
+      "adaptive learning systems",
+      "learning analytics",
+      "student data privacy"
+    ],
+    "hypotheses": [
+      "H1: Students receiving real-time AI-tailored formative feedback demonstrate higher topic mastery compared to students using non-adaptive digital textbooks.",
+      "H2: Unmitigated training datasets in predictive grading algorithms disproportionately penalize non-native English speakers unless explicit debiasing weights are applied."
+    ]
+  },
+  "literatureReview": {
+    "thematicSynthesis": "Current scholarship highlights three dominant paradigms: cognitive scaffolding via intelligent tutoring systems, predictive early-alert analytics, and critical algorithmic fairness studies...",
+    "identifiedGaps": [
+      "Lack of longitudinal studies assessing whether heavy reliance on AI feedback degrades long-term metacognitive self-regulation.",
+      "Absence of standardized institutional auditing frameworks for commercial AI tools in higher education."
+    ]
+  },
+  "abstract": {
+    "abstractText": "Artificial intelligence (AI) is rapidly transforming higher education through adaptive learning systems, intelligent tutoring agents, and predictive student analytics. While these innovations offer unprecedented potential to tailor educational materials to individualized student paces and cognitive needs, they simultaneously introduce critical concerns regarding data privacy, algorithmic fairness, and equitable access...",
+    "wordCount": 178,
+    "keywords": [
+      "AI in education",
+      "personalized learning",
+      "educational technology",
+      "learning analytics",
+      "algorithmic fairness"
+    ]
+  },
+  "outline": {
+    "targetWordCount": "4,500 – 6,000 words",
+    "sections": [
+      {
+        "sectionNumber": 1,
+        "title": "Introduction",
+        "estimatedWords": "750 words"
+      },
+      {
+        "sectionNumber": 2,
+        "title": "Literature Review",
+        "estimatedWords": "1,200 words"
+      },
+      {
+        "sectionNumber": 3,
+        "title": "Methodology",
+        "estimatedWords": "900 words"
+      },
+      {
+        "sectionNumber": 4,
+        "title": "Results / Anticipated Findings",
+        "estimatedWords": "1,000 words"
+      },
+      {
+        "sectionNumber": 5,
+        "title": "Discussion",
+        "estimatedWords": "900 words"
+      },
+      {
+        "sectionNumber": 6,
+        "title": "Conclusion & Recommendations",
+        "estimatedWords": "500 words"
+      },
+      {
+        "sectionNumber": 7,
+        "title": "References (APA 7th Edition)",
+        "estimatedWords": "N/A"
+      }
+    ]
+  },
+  "referencesList": [
+    {
+      "id": "ref-1",
+      "apaCitation": "Holmes, W., Bialik, M., & Fadel, C. (2023). Artificial intelligence in education: Promises and implications for teaching and learning. Center for Curriculum Redesign.",
+      "type": "Book",
+      "status": "Verified real publication"
+    }
+  ]
+}
